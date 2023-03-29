@@ -1,0 +1,9 @@
+Tryhackme(problem): https://tryhackme.com/room/confidential
+
+>>>>Hints: they have a secret invite code available within a QR code, but it's covered by some image in this PDF! 
+
+
+
+>>>>>> Firstly i save the pdf file in image format(.png)
+>>>>>>scan the online QR code scaner and get the flag
+>>>>>>flag{e08e6ce2f077a1b420cfd4a5d1a57a8d}
